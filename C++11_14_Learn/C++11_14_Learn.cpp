@@ -2,6 +2,8 @@
 
 #include "stdafx.h"
 /**/
+// branch master
+
 #include <iostream>
 #include <string>
 #include <vector>
