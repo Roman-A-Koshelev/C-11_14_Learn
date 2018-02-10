@@ -1,7 +1,7 @@
 // C++11_14_Learn.cpp: определяет точку входа для консольного приложения.
 
 #include "stdafx.h"
-
+/**/
 #include <iostream>
 #include <string>
 #include <vector>
