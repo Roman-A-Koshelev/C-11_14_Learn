@@ -2,6 +2,7 @@
 
 #include "stdafx.h"
 /**/
+// git-hub user2
 
 #include <iostream>
 #include <string>

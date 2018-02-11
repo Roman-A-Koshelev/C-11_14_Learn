@@ -6,6 +6,7 @@
 #pragma once
 
 // commit to git-hub
+// commit user2
 
 #include "targetver.h"
 
